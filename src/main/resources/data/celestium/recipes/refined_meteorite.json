@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "celestium:rough_meteorite"
+    },
+    {
+      "item": "celestium:rough_meteorite"
+    }
+  ],
+  "result": {
+    "item": "celestium:refined_meteorite",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#nr",
+    "r  "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_powder"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "r": {
+      "item": "celestium:refined_meteorite"
+    }
+  },
+  "result": {
+    "item": "celestium:space_gun",
+    "count": 1
+  }
+}

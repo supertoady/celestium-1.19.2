@@ -1,0 +1,10 @@
+{
+  "item.celestium.rough_meteorite": "Rough Meteorite",
+  "item.celestium.refined_meteorite": "Refined Meteorite",
+  "item.celestium.meteor_magnet": "Meteor Magnet",
+  "item.celestium.space_gun": "Space Gun",
+
+  "block.celestium.meteorite_chunk": "Rough Meteorite Chunk",
+
+  "itemGroup.celestium.celestium": "Celestium"
+}
